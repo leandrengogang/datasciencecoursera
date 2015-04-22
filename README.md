@@ -1,2 +1,2 @@
 ## Data Science course repository
-This is my public repository for sharing coursera training courses programs and outputs.
+This is my public repository for sharing coursera's training course programs and outputs.
